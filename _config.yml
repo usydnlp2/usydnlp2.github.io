@@ -1,0 +1,12 @@
+title: Workshop on Toxicity Detection in Games
+description: Toxicity Dual Detection workshop at The Web Conference (WWW) aims to promote research on toxicity dual detection using CONDA, a CONtextual Dual-Annotated dataset for in-game toxicity understanding and detection.
+show_downloads: false
+
+# theme: jekyll-theme-cayman
+remote_theme: pages-themes/cayman@v0.2.0
+plugins:
+- jekyll-remote-theme
+
+#google_analytics:
+
+
