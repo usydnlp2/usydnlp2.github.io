@@ -2,7 +2,7 @@
 
 ## About Workshop
 
-**Toxicity Dual Detection Workshop** will be held within The Web Conference [(WWW)](https://www2022.thewebconf.org/) between 25th - 29th, 2022. The workshop date will be released in Dec 2021.
+**Toxicity Dual Detection Workshop** will be held within the The Web Conference [(WWW)](https://www2022.thewebconf.org/) between 25th - 29th, 2022. The workshop date will be released in Dec 2021.
 
 ### Workshop Description
 
