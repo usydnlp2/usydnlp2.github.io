@@ -18,8 +18,8 @@ This workshop aims to bring together top researchers and practitioners from acad
 Traditional toxicity detection models have focused on the single utterance level without deeper understanding of context. The CONDA dataset is to detect in-game toxic language, **enabling joint intent classification and slot filling analysis**, which is a core task in Natural Language Understanding (NLU). The dataset consists of 45K utterances from 12K conversations from the chat logs of 1.9K completed the _Defense of the Ancients 2 (Dota 2)_ matches. Dota 2 is a multiplayer online game where teams of five players attempt to destroy their opponents' ancient structure.
 - Paper [Link](https://arxiv.org/abs/2106.06213)
 - Github [Link](https://github.com/usydnlp/CONDA)
-- Challenge [Link](https://usydnlp2.github.io/conda/challenge)
-- Competition [Link](https://competitions.codalab.org/): CONDA 1.0 (in 2022), CONDA 2.0 (in 2023 - later)
+- Challenge [Link](https://usydnlp2.github.io/challenge) : CONDA 1.0 (in 2022), CONDA 2.0 (in 2023 - later)
+- Competition [Link](https://competitions.codalab.org/)
 
 
 ## Speakers
