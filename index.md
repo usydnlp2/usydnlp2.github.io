@@ -6,11 +6,24 @@
 
 ### Workshop Description
 
-As the popularity of multi-player online games has grown, the phenomenon of **in-game toxic behavior** has taken root within them. Like other social platforms, toxic behavior is strongly present in recent online games and is problematic to the gaming industry. These have the effect of loss of enjoyment for players which can lead to loss of player base, and longer term self-esteem effects. Fast detection of such behaviour can enable mitigation strategies to be enacted to thwart the toxic situations.
- 
-An extensive body of work has focused on datasets to **detect toxicity** including hate speech and abusive language. However, the majority of toxicity datasets do not consider the context of a conversation, instead simply analysing a single utterance. In order to understand context and detect toxicity, this workshop uses **CONDA** (accepted by ACL-IJCNLP 2021), an in-game toxicity detection dataset providing **a dual-level annotation at utterance and token-level, and rich contextual chatting history**.
+As the popularity of multi-player online games has grown, the phenomenon of in-game toxic behaviour has taken root within them. Like other social platforms, toxic behaviour is strongly present in recent online games and is problematic to the gaming industry. These have the effect of loss of enjoyment for players which can lead to loss of player base, and longer term self-esteem effects. Fast detection of such behaviour can enable mitigation strategies to been acted to thwart the toxic situations.
 
-This workshop aims to bring together top researchers and practitioners from academia and industry to engage in a discussion about identifying and combating such toxicity behaviour. The Web Conference (WWW) offers an excellent forum for such a discussion, and we expect the workshop to be of interest to everyone in the community. 
+The goal of the workshop is to bring together researchers and practitioners from academia and industry to engage in a discussion about identifying and combating such toxicity behaviour. The workshop consists on (1) a series of invited talks by reputed members of the community of online toxicity from both academia and industry, (2) a call-for-papers for contributed talks, (3) a shared task with leaderboard challenges for CONDA toxicity dataset, and (4) a multidisciplinary panel discussion.
+
+In this workshop, 4 industry leads (from Thales, Microsoft, Appen, and Blizzard) and 3 academic experts (from The University of HongKong (HKU), University of New South Wales (UNSW), and Sydney Health Literacy Lab from the University of Sydney) will expose multidisciplinary challenges, solutions, and ongoing research in gaming areas.
+
+Topics of interest include, but are not limited to:
+
+- Multimodal Toxicity Detection in Games
+- Natural Language Understanding and Generation of Dialogue in Games
+- In-game Chat Content Modelling
+- Evaluation of games for NLP
+- Applications of Toxicity Detection in Games
+- Gamer Behavioral-based Detection
+- Bias in Toxicity Detection Systems in Games
+- Ethical and Privacy Concerns related to Games
+
+To promote the research and practice on Toxicity Detection in Games, we held a **CONDA Toxicity Dual Detection Challenge** based on the CONDA dataset (accepted by ACL-IJCNLP 2021) from December 2021 to March 2022. This competition provided a good testbed for participants to develop better toxicity detection systems to improve the future reading experience of millions of users.
 
 
 ## CONDA Dataset 
